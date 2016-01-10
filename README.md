@@ -24,13 +24,22 @@ Here's a preview of how it looks like:
 
 ![](preview.png)
 
-Obsidian version preview:
-
-![](preview-obsidian.png)
-
 Thanks to *Raúl Salitrero* who made the initial version (see [http://sourceforge.net/apps/mediawiki/notepad-plus/?title=User_Defined_Language_Files#L](http://sourceforge.net/apps/mediawiki/notepad-plus/?title=User_Defined_Language_Files#L)).
 
 Use it however you like it. 
+
+
+Contributions
+-------------
+Some kind souls contributed a few mods inspired by alternative themes.
+
+ - [Obsidian](less-obsidian.xml) (by [eight04](https://github.com/eight04))
+
+    ![](preview-obsidian.png)
+
+ - [Zenburn](less-zenburn.xml) (by [sebcar](https://github.com/sebcar))
+
+    ![](preview-zenburn.png)
 
 
 Cheers,
